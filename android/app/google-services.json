@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408286415531",
+    "project_id": "fir-afran",
+    "storage_bucket": "fir-afran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408286415531:android:b1106a4dbd9be92f00c5ee",
+        "android_client_info": {
+          "package_name": "com.example.firebase_afran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408286415531-nusihqmf2fm2ban0orbnuhtnm3bm04cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxpTjgN5sKjYL79NGCY4WmhNB9dXS0QX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408286415531-nusihqmf2fm2ban0orbnuhtnm3bm04cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
